@@ -12,6 +12,7 @@ def decode(digits):
         result += next
     return result
 
+
 def main():
     while True:
         print("Menu")
