@@ -6,11 +6,8 @@ def encode(digits):  # Kayline Kinda
     return result
 
 def decode(digits):
-    result = ""
-    for i in digits:
-        next = str((int(i) - 3) % 10)
-        result += next
-    return result
+   pass
+
 
 def main():
     while True:
